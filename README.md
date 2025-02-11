@@ -4,7 +4,7 @@
 
 🌱 Atualmente, estou aprendendo Java, HTML, JavaScript, CSS, Spring Boot, Angular e SQL Server.
 
-💞️ Estou procurando colaborar em projetos como uma ex-estilista se aventurando no mundo da tecnologia.
+🙂 Estou procurando colaborar em projetos como uma ex-estilista se aventurando no mundo da tecnologia.
 
 🎨 Tenho experiência com Illustrator, Figma e Lucid.
 <!---
